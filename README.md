@@ -2,6 +2,16 @@
 
 In this Power BI case study, we’ll explore a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch. We’ll use Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. We’ll then use DAX to build insightful visualizations of our findings. Finally, We’ll bring it all together using everything Power BI has to offer to create a business dashboard so that we can answer questions for the DataSearch team.
 
+### Project Objectives
+Investigate market trends for data science roles
+
+* The context
+An employee recruiting firm DataSearch,needs to uncover job trends
+* Thetask
+Discover trends in jobs and skills within the data science industry
+* The dataset
+Factitious collection of key details from job postings. The Dataset contains data about 25,114 job postings and 17 columns information about each job posting (Title, Date, Industry, Skills, ... )
+
 ### Data analysis Pipeline:
 - 1. Checking Data
 - 2. Exploring Data
