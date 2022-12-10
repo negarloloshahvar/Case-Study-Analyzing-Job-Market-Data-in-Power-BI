@@ -14,12 +14,21 @@ We'll start this Power BI case study by importing and cleaning the job posting d
 
 First, I imported and loaded the dataset into Power BI. Then, using Power Query tool, I 93% of values for Max and Min pay column were null values. This indicates that more than 90% of companies do not mention Maximum and Minimum of salary in their job postings. After than by sorting the Number of applicant column in a decending order, I understood that the most popular industries were Marketting and Adevrtisement, Computer Software, and Broadcast Media, respectively.
 
-Next, I want to obtain an idea of the relation between the Years of Experience and the Job Position level (e.g. Entry Level). To do so, I visualised the average Years of Experience and column and the Job Position Level column using a Treemap.
+Next, I want to obtain an idea of the relation between the Years of Experience and the Job Position level (e.g. Entry Level). To do so, I visualised the average Years of Experience and column and the Job Position Level column using a Treemap and a Bar chart.
+
+![image](https://user-images.githubusercontent.com/113103161/206879491-99428656-0975-446a-ae6a-c0e13c05c677.png)
+
 
 ![image](https://user-images.githubusercontent.com/113103161/206877061-f52442d4-36dd-4679-997f-cd5001100450.png)
 
 
 It is observed that the average experience years required for a Executive level job is around 15 years and you can land an Internship with less than a year experience.
+
+Next, we are interested in observing the trend of job postings in time. So we visualise the Count of Job Posting IDs over Job Posting Date as time axis.
+
+![image](https://user-images.githubusercontent.com/113103161/206879546-cc2d9016-5ea9-434f-ad34-fa48cdde3cab.png)
+
+It is evident that the first quarter of 2020 the number of job positions has been the lowest due to the rise of Covid-19.
 
 
 ## Step 2: Analyzing Market Trends
