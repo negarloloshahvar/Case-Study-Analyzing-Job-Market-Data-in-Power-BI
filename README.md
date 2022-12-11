@@ -28,18 +28,24 @@ Next, I want to obtain an idea of the relation between the Years of Experience a
 
 ![image](https://user-images.githubusercontent.com/113103161/206879491-99428656-0975-446a-ae6a-c0e13c05c677.png)
 
-
-![image](https://user-images.githubusercontent.com/113103161/206877061-f52442d4-36dd-4679-997f-cd5001100450.png)
+![image](https://user-images.githubusercontent.com/113103161/206880289-148148c7-bd3f-4c28-a751-5aecde2e6a21.png)
 
 
 It is observed that the average experience years required for a Executive level job is around 15 years and you can land an Internship with less than a year experience.
+At 15.17 years, Executive had the highest Average of Years of Experience and was 4,047.13% higher than Internship, which had the lowest Average of Years of Experience at 0.37 year. Moreover, across all 6 Job Position Levels, Average of Years of Experience ranged from 0.37 to 15.17 years.
 
 Next, we are interested in observing the trend of job postings in time. So we visualise the Count of Job Posting IDs over Job Posting Date as time axis.
 
-![image](https://user-images.githubusercontent.com/113103161/206879546-cc2d9016-5ea9-434f-ad34-fa48cdde3cab.png)
+![image](https://user-images.githubusercontent.com/113103161/206880032-a93f49dd-92a1-4b6a-8eab-fb8257cf6d44.png)
 
-It is evident that the first quarter of 2020 the number of job positions has been the lowest due to the rise of Covid-19.
+It is evident that the first quarter of 2020 the number of job positions has been the lowest due to the rise of Covid-19. Between January 2017 and December 2021, Mid-Senior level had the largest increase in Count of Job Postings (174.48%) while Internship had the largest decrease (33.33%). The most recent Count of Job Postings anomaly was in September 2021, when Director had a low of 1. Count of Job Postings for Internship started trending up on February 2021, rising by 300.00% (3) in 4 months.
 
+Now it's time to dig deeper into the dataset to gain info about data related jobs: Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, and Data Science Manager. We start by analysing the number of job postings for each job title.  
+
+![image](https://user-images.githubusercontent.com/113103161/206880551-48fd4ce7-b15e-4746-a93a-ffbd5cf3be5d.png)
+
+
+At 3,462, Data Engineer had the highest Count of Job Postings and was 14,952.17% higher than Data Science Manager, which had the lowest Count of Job Postings at 23. Data Engineer accounted for 47.74% of Count of Job Postings. Across all 5 Job Titles, Count of Job Postings ranged from 23 to 3,462.
 
 ## Step 2: Analyzing Market Trends
 
