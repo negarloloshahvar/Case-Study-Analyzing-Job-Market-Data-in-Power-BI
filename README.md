@@ -96,7 +96,12 @@ Here, I used DAX to identify the probability of a certain skill occurance in a j
 ![image](https://user-images.githubusercontent.com/113103161/206923866-5e51ade3-afa3-4ad6-9fe5-6d27b6c0d723.png)
 
 
-Trends in skills over time
+### Trends in skills over time
+Next, let's analyse the trend of skills in job postings over time. This can give us a good idea of what skills are more in demand in certion time periods. We want a a time-series graph, so we use a Line Chart to visualise the ```% Skill in Postin``` over time by using ```Posting Date``` and use ```Job Titles``` from our ```Job Skills``` table as a legend. The result is the following graph:
+
+![image](https://user-images.githubusercontent.com/113103161/206929608-faa75cd5-996b-4d7c-ab00-93e062a196fe.png)
+
+We can observe that although the metrics have fluctuations on a short-term basis, the top 10 skills maintain at consisted deman over the past few years. Moreover, across Job Skills, spark had the most interesting recent trend and started trending down on 2017, falling by 6.61% (1.29%) in 4 years.
 
 Deep dive into key job descriptions
 
