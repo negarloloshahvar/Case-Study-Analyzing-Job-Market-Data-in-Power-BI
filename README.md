@@ -81,11 +81,14 @@ We want to follow a goal-oriented approach in our analysis, so, we must keep our
 - Visualizations to share
 - Communication style
 
-Market insight analysis
+### Skill analysis
+Using only the two columns Job Posting ID and Job Skills, we creat a second Table called Job Skills. In the new table we remove the extra characters in the column Job Skills such as brackets [], quotes ", and extra spaces. I have also used the Trim and Clean features to remove the extra spaces in each cell. Then, we split this column into rows to seperate the list of skills for each job on a seperate row.
 
-Key insights to focus
+Next, I visualised the count of Job Skills to gain an innitial idea of the most required skills.
 
-Cleanup and skill analysis
+![image](https://user-images.githubusercontent.com/113103161/206914484-eebba5da-0fd9-466b-92ad-0109a156168f.png)
+
+We observe that the count of Job Skills was highest for python at 3,931, followed by sql and cloud. Python accounted for 7.44% of Count of Job Skills. Across all 165 Job Skills, Count of Job Skills ranged from 1 to 3,931.
 
 Likelihood of skills in job posting
 
