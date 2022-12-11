@@ -90,7 +90,11 @@ Next, I visualised the count of Job Skills to gain an innitial idea of the most 
 
 We observe that the count of Job Skills was highest for python at 3,931, followed by sql and cloud. Python accounted for 7.44% of Count of Job Skills. Across all 165 Job Skills, Count of Job Skills ranged from 1 to 3,931.
 
-Likelihood of skills in job posting
+### Skill Likelihood in Job Posting
+Here, I used DAX to identify the probability of a certain skill occurance in a job posting. To do so, we use the basic probability principles. The probability of a certain skill existing in a job ad, can be calculated at the count of all the job postings that contain this skill over the total number of all job postings. Therefor, I created three measures called ```Skill Count``` , ```Posting Count```, and ```% of Skill in Posting``` that calculated the required chance. Then I created a Matrix to visualise the result. I also added a slicer, so that it would be easier to filter for a specific skill.
+
+![image](https://user-images.githubusercontent.com/113103161/206923866-5e51ade3-afa3-4ad6-9fe5-6d27b6c0d723.png)
+
 
 Trends in skills over time
 
