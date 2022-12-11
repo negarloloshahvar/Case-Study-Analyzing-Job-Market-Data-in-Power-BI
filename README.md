@@ -64,7 +64,7 @@ It is obvious that the more the years of experience, the highere salary. Also, w
 
 In our second analysis step we continue to apply our Power BI skills to extract data insights with tools like DAX and begin to build unique data visualizations.
 
-Key Insights We Identifies So Far:
+Key Insights we have Identified So Far:
 - Job postings are gradually increasing in number.
 - Data Engineers, Data Scientists, and Analysts are indemand!
 - Tech industries need data science roles the most.
