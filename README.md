@@ -47,6 +47,8 @@ Now it's time to dig deeper into the dataset to gain info about data related job
 
 At 3,462, Data Engineer had the highest Count of Job Postings and was 14,952.17% higher than Data Science Manager, which had the lowest Count of Job Postings at 23. Data Engineer accounted for 47.74% of Count of Job Postings. Across all 5 Job Titles, Count of Job Postings ranged from 23 to 3,462.
 
+In the next step of our EDA, we are interested in identifying influential factors on job market trend. One of the integral parts of a job is the compensation. Here, we analyse the effect of years of experience on each jab's offered salary.
+
 ## Step 2: Analyzing Market Trends
 
 ## Step 3: Building Dashboard
