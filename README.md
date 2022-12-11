@@ -22,7 +22,7 @@ Factitious collection of key details from job postings. The Dataset contains dat
 ## Step 1: Exploratory Analysis
 We'll start this Power BI case study by importing and cleaning the job posting dataset using Power Query. Once we’ve done this, it’s time to do some initial data exploration.
 
-First, I imported and loaded the dataset into Power BI. Then, using Power Query tool, I 93% of values for Max and Min pay column were null values. This indicates that more than 90% of companies do not mention Maximum and Minimum of salary in their job postings. After than by sorting the Number of applicant column in a decending order, I understood that the most popular industries were Marketting and Adevrtisement, Computer Software, and Broadcast Media, respectively.
+First, I imported and loaded the dataset into Power BI. Then, using Power Query tool, 93% of values for Max and Min pay column were null values. This indicates that more than 90% of companies do not mention Maximum and Minimum of salary in their job postings. After than by sorting the Number of applicant column in a decending order, I understood that the most popular industries were Marketting and Adevrtisement, Computer Software, and Broadcast Media, respectively.
 
 ### More Experienced, Higher Level
 
@@ -55,6 +55,10 @@ At 3,462, Data Engineer had the highest Count of Job Postings and was 14,952.17%
 ### Effect of Years Experience on Salary
 
 In the next step of our EDA, we are interested in identifying influential factors on job market trend. One of the integral parts of a job is the compensation. Here, we analyse the effect of years of experience on each jab's offered salary.
+
+![image](https://user-images.githubusercontent.com/113103161/206910657-8bdc8967-492d-4d17-b95f-47d110267d7d.png)
+
+It is obvious that the more the years of experience, the highere salary. Also, we observe that the Data Analysts earn the least compared to other data related jobs. A bit dissapointing! However, we must keep in mind that more than 93% of values for Max and Min pay columns (which we used to calculate the Average pay for each job title) were null values, so we connat draw any major concolusions.
 
 ## Step 2: Analyzing Market Trends
 
