@@ -62,4 +62,34 @@ It is obvious that the more the years of experience, the highere salary. Also, w
 
 ## Step 2: Analyzing Market Trends
 
+In our second analysis step we continue to apply our Power BI skills to extract data insights with tools like DAX and begin to build unique data visualizations.
+
+Key Insights We Identifies So Far:
+- Job postings are gradually increasing in number.
+- Data Engineers, Data Scientists, and Analysts are indemand!
+- Tech industries need data science roles the most.
+- Salaries are trending upward as expected.
+
+In our second step, we are going to analyse our data to provide insights on the following:
+
+- Correlation between skills and job title
+- Top industries and companies 
+- Potential recommendations
+
+Market insight analysis
+
+Key insights to focus
+
+Cleanup and skill analysis
+
+Likelihood of skills in job posting
+
+Trends in skills over time
+
+Deep dive into key job descriptions
+
+Other job recommendations
+
+Trends from analysis
+
 ## Step 3: Building Dashboard
