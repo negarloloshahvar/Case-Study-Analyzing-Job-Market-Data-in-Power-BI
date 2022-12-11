@@ -76,6 +76,11 @@ In our second step, we are going to analyse our data to provide insights on the 
 - Top industries and companies 
 - Potential recommendations
 
+We want to follow a goal-oriented approach in our analysis, so, we must keep our final purpose in mind and identify the following as we go forward in our data analysis project:
+- Key findings to focus
+- Visualizations to share
+- Communication style
+
 Market insight analysis
 
 Key insights to focus
