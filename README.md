@@ -103,7 +103,17 @@ Next, let's analyse the trend of skills in job postings over time. This can give
 
 We can observe that although the metrics have fluctuations on a short-term basis, the top 10 skills maintain at consisted deman over the past few years. Moreover, across Job Skills, spark had the most interesting recent trend and started trending down on 2017, falling by 6.61% (1.29%) in 4 years.
 
-Deep dive into key job descriptions
+### Deep dive into key job descriptions
+
+Next, we are interested in exploring the companies and industries that are looking for data-related roles. To do this, I visualised the Average years of experience and posting count by job position level and company industry in a scatter plot, along with a table containing posting count, job title and company name. This way, I can find out which industry and company is mostly looking for which job position level and with how many years of experience. 
+
+![image](https://user-images.githubusercontent.com/113103161/208241963-80cf74e8-e0bc-48f4-aaae-e4dc00c386a4.png)
+
+It is evident that there is a large demand for Mid-senior scientists with an average of 5.37 years of experience in the internet industry.
+
+![image](https://user-images.githubusercontent.com/113103161/208242227-552452a4-2289-4ec0-91c6-c0ec820c1574.png)
+
+Using the table, we observe that the company Toptal is hiring a large number of Data Engineers (994) and Data Scientist (673).
 
 Other job recommendations
 
