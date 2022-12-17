@@ -1,6 +1,7 @@
 # Case-Study-Analyzing-Job-Market-Data-in-Power-BI
 
-* You can read the full article on this project here: https://www.linkedin.com/pulse/analyzing-job-market-data-power-bi-negar-loloshahvar/?trackingId=ZBi2LFxgShmVW7YCp%2FeK2w%3D%3D *
+* You can read the full article on this project [here](https://www.linkedin.com/pulse/analyzing-job-market-data-power-bi-negar-loloshahvar/?trackingId=ZBi2LFxgShmVW7YCp%2FeK2w%3D%3D).
+
 
 In this Power BI case study, we’ll explore a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch. We’ll use Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. We’ll then use DAX to build insightful visualizations of our findings. Finally, We’ll bring it all together using everything Power BI has to offer to create a business dashboard so that we can answer questions for the DataSearch team.
 
