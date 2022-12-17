@@ -113,9 +113,7 @@ It is evident that there is a large demand for Mid-senior scientists with an ave
 
 ![image](https://user-images.githubusercontent.com/113103161/208242227-552452a4-2289-4ec0-91c6-c0ec820c1574.png)
 
-Using the table, we observe that the company Toptal is hiring a large number of Data Engineers (994) and Data Scientist (673).
-
-Other job recommendations
+Using the table, we observe that the company Toptal is hiring a large number of Data Engineers (994) and Data Scientist (673). Staffing & Recruiting had the highest Average of Years of Experience (4.96) and Internet had the highest Posting Count (5052).
 
 Trends from analysis
 
