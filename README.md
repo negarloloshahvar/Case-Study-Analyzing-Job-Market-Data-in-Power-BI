@@ -115,6 +115,21 @@ It is evident that there is a large demand for Mid-senior scientists with an ave
 
 Using the table, we observe that the company Toptal is hiring a large number of Data Engineers (994) and Data Scientist (673). Staffing & Recruiting had the highest Average of Years of Experience (4.96) and Internet had the highest Posting Count (5052).
 
-Trends from analysis
-
 ## Step 3: Building Dashboard
+
+Now it’s time to hand over the final deliverable. We’ll combine all of the job listing insights we’ve discovered into an interactive Power BI dashboard for the DataSearch team.
+
+### Begin dashboard templates
+We decide to summerise our findings in three pages Jobs, Skills, Company, introduced in the Home page. We used template pictures for the background to make our final dashboard more organised.
+
+### Designing a dashboard layout
+
+![image](https://user-images.githubusercontent.com/113103161/208248501-967ac9a6-3c32-4360-91a7-2be5c6621cfa.png)
+
+### Exploring top skills for jobs
+![image](https://user-images.githubusercontent.com/113103161/208248548-7129d6c4-5675-4016-bc26-71a25f094ac8.png)
+
+### Salary gauge for companies
+![image](https://user-images.githubusercontent.com/113103161/208248566-b31530ec-c010-402d-bf81-398b4bd1d638.png)
+
+Adding interactivity with bookmarks
