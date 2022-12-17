@@ -132,4 +132,23 @@ We decide to summerise our findings in three pages Jobs, Skills, Company, introd
 ### Salary gauge for companies
 ![image](https://user-images.githubusercontent.com/113103161/208248566-b31530ec-c010-402d-bf81-398b4bd1d638.png)
 
-Adding interactivity with bookmarks
+## Adding interactivity with bookmarks
+
+With the help of icons and bookmarking them, I was able to make my dashboard even more interactive. This id the final results where the icons are clickable and make working with the dashboard a lot easier for the end-user. This is the final result:
+
+
+- Home Page:
+![image](https://user-images.githubusercontent.com/113103161/208249231-c3bd58cb-5bd2-4d85-8266-9e3c187756ef.png)
+
+- Jobs Page:
+![image](https://user-images.githubusercontent.com/113103161/208249245-e5325079-fe6d-46d7-8920-5782e6ec4fcc.png)
+
+- Skills Page:
+![image](https://user-images.githubusercontent.com/113103161/208249267-de393e15-bbe3-4c94-8de1-a08a83c00cbb.png)
+
+- Company Page:
+![image](https://user-images.githubusercontent.com/113103161/208249285-e2a3aacd-28a5-4228-a4b2-a692330349c6.png)
+
+
+
+
